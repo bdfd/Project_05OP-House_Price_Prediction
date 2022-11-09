@@ -33,7 +33,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 **Projects:** ABC Project Name
 
 **Problem Description**  
-Predict the porfit of startup compnay with folloing fileds
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.  
 
 **Problem Task**  
 Predict the porfit of startup compnay with folloing fileds
